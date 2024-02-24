@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Feature Engineering,Natural Language Processing(NLP)<br>🤝 I’m looking for help with<br>🌱 I’m currently learning NLP,Computer Vision<br>👨‍💻   All of my projects are available on Github<br>💬   Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau<br>📫   How to reach me durganadh333@gmail.com<br>
+🔭 I’m currently working on Natural Language Processing(NLP)<br>🤝 I’m looking for help with<br>🌱 I’m currently learning NLP,Computer Vision<br>👨‍💻   All of my projects are available on Github<br>💬   Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau<br>📫   How to reach me durganadh333@gmail.com<br>
 
 
 ## 🌐 Socials:
